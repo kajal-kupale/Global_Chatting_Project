@@ -17,7 +17,7 @@ A responsive web-based chatting app using **PHP, Bootstrap & MySQL**.
 ## 📂 Folder Structure
 
 ## ⚙️ Setup Instructions
-1. Clone repo: `git clone https://github.com/your-username/chat-app.git`
+1. Clone repo: `git clone https://github.com/kajal-kupale/Global_Chatting_Project`
 2. Import `database.sql` in phpMyAdmin
 3. Edit `includes/db.php` with DB credentials
 4. Run on localhost using XAMPP/WAMP
