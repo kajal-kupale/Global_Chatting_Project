@@ -34,4 +34,3 @@ A responsive web-based chatting app using **PHP, Bootstrap & MySQL**.
 ## 📄 License
 Open-source under the [MIT License](LICENSE)
 
-> Made with ❤️ using PHP + Bootstrap
